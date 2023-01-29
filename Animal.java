@@ -1,7 +1,7 @@
 public final class Animal {
     private final String name;
 
-    public Dog(String name) {
+    public Name(String name) {
         this.name = name;
     }
     public void printInfo() {
